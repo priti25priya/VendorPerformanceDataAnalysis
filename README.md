@@ -1,4 +1,5 @@
 Vendor Performance Data Analysis (End-to-End)
+
 Objective
 In the wholesale and retail industry, effective inventory and sales management is crucial for profitability. Companies like Amazon rely on a network of vendors, and poor vendor performance can lead to:
 •	Inefficient pricing strategies
