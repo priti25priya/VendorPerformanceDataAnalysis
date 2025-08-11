@@ -4,7 +4,7 @@ Objective
 In the wholesale and retail industry, effective inventory and sales management is crucial for profitability. Companies like Amazon rely on a network of vendors, and poor vendor performance can lead to:
 •	Inefficient pricing strategies
 •	Inventory pile-up and high holding costs
-•	Missed revenue opportunities
+•	Missed revenue opportunities 
 This project aimed to analyze vendor performance using historical data to help the business:
 •	Identify underperforming brands needing promotional or pricing adjustments
 •	Determine top vendors contributing to sales and gross profit
